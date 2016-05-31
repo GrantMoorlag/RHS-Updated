@@ -1,0 +1,39 @@
+<style> 
+
+@font-face { font-family: Forte; src: url("f.TTF"); }
+h1 {
+	font-family: Forte
+	color: #D99A42;
+}
+
+@font-face { font-family: Caviar Dreams; src: url("cd.TTF"); }
+h2 {
+	font-family: Caviar Dreams
+	color: #D99A42;
+}
+
+@font-face { font-family: Social Circles; src: url("sc.TTF"); }
+h3 {
+	font-family: Social Circes
+	color: #FFFFFF;
+}
+		
+@font-face { font-family: Caviar Dreams; src: url("cd.TTF"); }
+p {
+	font-family: Caviar Dreams;
+	font-size: 24;
+}
+
+@font-face { font-family: Caviar Dreams Bold; src: url("cdb.TTF"); }
+p.bold {
+	font-family: Caviar Dreams Bold;
+	font-size: 24;
+}
+
+@font-face { font-family: Caviar Dreams; src: url("cd.TTF"); }
+li {
+	font-family: Caviar Dreams;
+	font-size: 20;
+}
+
+</style>

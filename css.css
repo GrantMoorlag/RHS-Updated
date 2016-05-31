@@ -1,0 +1,50 @@
+<style>
+
+#all{
+	height: 100%;
+	width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #360003;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.active {
+	background-color: #8F8F8F;
+	color: #0D0D0D;
+}
+
+#foot {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #360003;
+	color: white;
+	font-size: 18;
+}
+
+</style>
